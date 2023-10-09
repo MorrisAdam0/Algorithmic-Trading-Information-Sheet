@@ -1,0 +1,1 @@
+# Algorithmic-Trading-Information-Sheet
